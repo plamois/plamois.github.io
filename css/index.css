@@ -60,3 +60,11 @@ header img {
 .fa-linkedin-square {
 	color: #0077B5
 }
+
+.carousel-caption h3 {
+	color: black;
+}
+
+.carousel-caption p {
+	color: black;
+}
